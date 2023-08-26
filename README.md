@@ -42,7 +42,7 @@ In this example, we calculate the factorial of 5, which is equal to 5 * 4 * 3 * 
 
 с названием `touch .github/workflows/chatgpt_integration.yml`
 
-и запуском программы на питоне с именем `chatgpt_integration.py'
+и запуском программы на питоне с именем `chatgpt_integration.py`
 
 
 
